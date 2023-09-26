@@ -1,0 +1,7 @@
+PyMuPDF
+sklearn
+fuzzywuzzy
+fitz
+streamlit==1.26.0
+sqlite3
+pandas
